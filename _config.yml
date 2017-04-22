@@ -16,9 +16,9 @@ keep_files:
 # Site settings
 title: Sugarlabs
 subtitle: "Learning software for children"
-url: "" # the base hostname & protocol for your site
+url: "https://lovemehta.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/airspace-jekyll"
+baseurl: "/sugarlabswithairspacetheme"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
